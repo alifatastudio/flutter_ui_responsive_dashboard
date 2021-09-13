@@ -4,11 +4,10 @@ Learn to make responsive dashboard with Flutter 😊
 
 ## Overview
 
-
+### [Live preview](https://alifatav.github.io/flutter_ui_responsive_dashboard/#/)
+*note : open the live preview, wait a moment, it will appear later, there is a delay, I also don't know why*
 
 https://user-images.githubusercontent.com/36532126/133045102-aae7df8c-20a0-4e1d-ab89-1c38637016bd.mp4
-
-
 
 **Package :**   
 * flutter_svg [link](https://pub.dev/packages/flutter_svg/i nstall)
